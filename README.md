@@ -1,2 +1,1 @@
-# previous-work
-A few of my previous works
+Some of my previous works are published here
